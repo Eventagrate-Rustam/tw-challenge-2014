@@ -1,0 +1,21 @@
+Metrics 
+1)	Number of Downloads
+The more downloads, the higher the probability the app will succeed. The download numbers should be put in perspective with the number of active users. This will help to measure how many people download and use the app, and monitor whether the app gains or losses popularity over a certain period of time or during a particular campaign.
+2)	The ratio of number of views and number of downloads	
+This will help track the efficiency of the product’s appearance and how attractive the product is to the customer at the first sight. Also, it will help to estimate the efficiency of ads, if campaigns are run through paid partners like Facebook to promote app downloads.
+3)	Net Promoter Score 
+This is fundamental metric in producing a clear measure of an organization's performance through its customers' eyes. This can be done in form of a feedback form that automatically pops-up after first successful payment.  
+4)	Number of registered users who have completed the first transaction
+Tracking the number of converted users helps to see if there is something critically wrong with the product, of if the interest is greater than the user experience. 
+5)	 Customer’s drop-off tracking through flow
+By tracks exits by screen, flow between screens, and total occurrences of visits to screens, it becomes possible to understand both what users did while on screen and where they went afterwards. In looking at how users navigate the app, a clear sense of problem areas and drop off screens can be formed.
+
+6)	Lifetime Value
+This metric is the estimator of expected profits. It represents the financial value of the app and how much each app user or customer is worth in his or her lifetime. It can be split out by average monthly value or value per customer, as revenue per customer or average money flow per customer in a period of time.
+7)	Retentions
+Retention is measured as the percentage of users who return to the app based on the date of their first visit. One way to do this is by updates that occur after research or user feedback. Every app goes through an evolution -- from its launch to a number of release versions, which may have feature and bug fixes or enhancements. Analyzing retention allows determining what’s working and what isn’t in the app over time as updates occur. 
+8)	Customer segmentation
+Understanding the customer segments in order to meet their needs, tracking specific behavior and launching successful app marketing campaigns. It also helps gain information about the high-value customers.
+
+
+
